@@ -1,0 +1,11 @@
+sistem dosyalarını xampp uygulamasının htdocs klasörüne bırakabilirsiniz. 
+tarayıcının adres yazma yerine localhost yazıldığında sisteme kolaylıkla ulaşabilirsiniz. 
+dosya fazlalığının sebebi yapılan işlemlerin fazlalığıdır. 
+
+kullanıcı girişi= kgris.php 
+anasayfa= yeni.php
+personel girişi= persgiris.php 
+
+HAZIRLAYANLAR
+RAMAZAN KAĞAN YÜKSEL - 385217
+MUTLU TAKİPTAR - 385171

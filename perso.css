@@ -1,0 +1,64 @@
+body {
+	background: url(images/abc.jpg);
+	background-size: cover;
+	font-family: sans-serif;
+}
+.persogiris {
+	width: 320px;
+	height: 420px;
+	background: rgba(0,0,0,0.5);
+	color: #fff;
+	top: 60%;
+	left: 50%;
+	position: absolute;
+	transform: translate(-50%,-50%);
+	box-sizing: border-box;
+	padding: 70px 30px;
+} 
+.perso {
+	width: 100px;
+	height: 100px;
+	border-radius: 50%;
+	position: absolute;
+	top: -49px;
+	left: calc(50% - 50px);
+}
+h1 {
+	margin: 0;
+	padding: 0 0 20px;
+	text-align: center;
+	font-size: 35px;
+}
+.persogiris p {
+	margin: 0;
+	padding: 0;
+	font-weight: bold;
+}
+.persogiris input {
+	width: 100%;
+	margin-bottom: 30px;
+}
+.persogiris input[type="text"], input[type="password"] {
+	border:none;
+	border-bottom: 2px solid #fffa65;
+	background: transparent;
+	outline: none;
+	height: 40px;
+	color: #fff;
+	font-size: 16px;
+}
+.persogiris input[type="submit"] {
+	border:none;
+	outline: none;
+	height: 40px;
+	background: #ffcccc;
+	font-size: 15px;
+	border-radius: 15px;
+}
+
+.persogiris input[type="submit"]:hover
+{
+    cursor: pointer;
+    background: #39dc79;
+    color: #000;
+}
